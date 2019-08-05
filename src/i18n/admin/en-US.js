@@ -16,7 +16,7 @@ export const m = {
   Export_Import_Problem: 'Export Or Import Problem',
   Contest: '대회/수행평가',
   Contest_List: '대회/수행평가 목록',
-  Create_Contest: '대회/수행평가 등록',  
+  Create_Contest: '대회/수행평가 등록',
   // User.vue
   User_User: '회원목록',
   Import_User: '사용자 추가',
@@ -30,12 +30,12 @@ export const m = {
   User_Type: '회원등급',
   Problem_Permission: 'Problem Permission',
   Two_Factor_Auth: 'Two Factor Auth',
-  Is_Disabled: '벤',  
+  Is_Disabled: '벤',
   // Announcement.vue
   General_Announcement: '공지사항',
   Announcement_Title: '제목',
   Announcement_Content: '본문',
-  Announcement_visible: '보이기',  
+  Announcement_visible: '보이기',
   // Conf.vue
   SMTP_Config: 'SMTP Config',
   Server: 'Server',
@@ -48,7 +48,7 @@ export const m = {
   Shortcut: 'Shortcut',
   Footer: 'Footer',
   Allow_Register: 'Allow Register',
-  Submission_List_Show_All: 'Submission List Show All',  
+  Submission_List_Show_All: 'Submission List Show All',
   // JudgeServer.vue
   Judge_Server_Token: 'Judge Server Token',
   Judge_Server_Info: 'Judge Server',
@@ -56,9 +56,9 @@ export const m = {
   Judger_Version: 'Judger Version',
   Service_URL: 'Service URL',
   Last_Heartbeat: 'Last Heartbeat',
-  Create_Time: 'Create Time',  
+  Create_Time: 'Create Time',
   // PruneTestCase
-  Test_Case_Prune_Test_Case: 'Prune Test Case',  
+  Test_Case_Prune_Test_Case: 'Prune Test Case',
   // Problem.vue
   Display_ID: 'Display ID',
   Title: '제목',
@@ -88,7 +88,7 @@ export const m = {
   Output: '출력',
   Score: '점수',
   Hint: '힌트',
-  Source: '출처',  
+  Source: '출처',
   // Contest.vue
   ContestTitle: '대회/수행평가 이름',
   ContestDescription: '설명',
@@ -99,7 +99,7 @@ export const m = {
   Real_Time_Rank: '실시간 순위',
   Contest_Status: 'Status',
   Allowed_IP_Ranges: 'Allowed IP Ranges',
-  CIDR_Network: 'CIDR Network',  
+  CIDR_Network: 'CIDR Network',
   // Dashboard.vue
   Last_Login: '마지막 접속',
   System_Overview: '시스템 개요',
